@@ -36,7 +36,7 @@ namespace MyMSBuildTask
 		{
 			Log.LogError (
 				"SubCat",
-				"AB1000",
+				"XA9005",
 				null,
 				null,
 				0,
